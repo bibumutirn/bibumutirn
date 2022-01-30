@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @bibumutirn
+- 👀 I’m interested in GODOT
+- 🌱 I’m currently learning GODOT
